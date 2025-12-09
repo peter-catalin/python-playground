@@ -39,5 +39,5 @@ multiline string
 3. By putting two string literals together.
 
 ```python
-# 'Py' 'thon'
+'Py' 'thon'
 ```
