@@ -1,4 +1,5 @@
 # python-playground
+
 Support repo for my Python learning journey
 
 # Basics
@@ -16,22 +17,22 @@ Support repo for my Python learning journey
 
 # Interactive interpreter mode
 
-`>>>` - waiting for command
-`...` - multi-line command
-`_` - stores the value of the last operation. Should be read-only, do not assign to it as you will mask the value of the special variable with a local one.
+- `>>>` - waiting for command
+- `...` - multi-line command
+- `_` - stores the value of the last operation. Should be read-only, do not assign to it as you will mask the value of the special variable with a local one.
 
 # Arithmetic operators
 
-The basic arithmetic operators are: +, -, *, /. Parentheses can be used for grouping.
+The basic arithmetic operators are: `+, -, *, /`. Parentheses can be used for grouping.
 
-`//` - floor division, discards the fractional part.
-`%` - modulo, returns the remainder of the division.
-`**` - exponentiation, raises the left operand to the power of the right operand.
+- `//` - floor division, discards the fractional part.
+- `%` - modulo, returns the remainder of the division.
+- `**` - exponentiation, raises the left operand to the power of the right operand.
 
 # (WIP) Primitive data types
 
 1. `int` - for integer numbers
-2. `float` - for floating-point numbers. *division always returns a `float`*
+2. `float` - for floating-point numbers. _division always returns a `float`_
 3. `complex` - for complex numbers
 4. `str` - strings, can be enclosed in single or double quotes.
 
